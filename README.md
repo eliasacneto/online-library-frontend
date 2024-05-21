@@ -6,7 +6,7 @@ This is a simple API built in Node.js using Express to manage books. It provides
 You can check this project online [here](https://onlinelibrary-phi.vercel.app/)
 
 ## How to:
-Clone the [API project](https://github.com/eliasacneto/online-library-backend), start the server and clone this repo.
+Clone the API project that I developed from [here](https://github.com/eliasacneto/online-library-backend), start the server and clone this repo to see running.
 
 ## Tech Stack
 - ReactJS
